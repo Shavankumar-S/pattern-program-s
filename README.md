@@ -18,9 +18,17 @@ python pattern1.py
 # 📸 Example Output
 
 Example (Number Triangle for rows=6):
+
 1
+
 1 2
+
 1 2 3
+
 1 2 3 4
+
 1 2 3 4 5
+
 1 2 3 4 5 6
+
+
